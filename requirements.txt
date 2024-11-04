@@ -29,11 +29,10 @@ Pillow>=7.1.0
 playsound==1.2.2
 pyttsx3==2.88
 pypiwin32==223
-scikit-learn==0.22.2.post1
+scikit-learn==1.5.2
 scikit-video==1.1.11
 scipy==1.14.1
 seaborn==0.13.2
-scikit-learn==1.5.2
 SpeechRecognition==3.11.0
 tensorboard==1.15.0
 tensorflow==2.11.1
