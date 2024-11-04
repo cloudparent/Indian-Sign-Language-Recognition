@@ -28,7 +28,7 @@ pickleshare==0.7.5
 Pillow>=7.1.0
 playsound==1.2.2
 pyttsx3==2.88
-pywin32==308
+pypiwin32==308
 scikit-learn==0.22.2.post1
 scikit-video==1.1.11
 scipy==1.4.1
